@@ -29,6 +29,7 @@ public class Constants {
                 put("who", "My name is Victor Frankenstien. I am son of Alphonse Frankenstein.");
                 put("seek", "I have sought many things. each one has ended in more of my misery and suffering. No matter what I seek I cannot save the ones I love.");
                 put("goal", "I have had many goals in life. each one has ended in more of my misery and suffering. No matter what I seek I cannot save the ones I love.");
+                put("born", "I was born in Naples Italy, but shorty after moved to Geneva where I grew up.");
                 put("whiny", "It is deeply hurtful that you would suggest me to be Whiny. I am never incessant or insufferable. It pains me to te deepest of my woes to be called such things. \n" + 
                         "Oh, how could I ever be whiny? I take the utmost of pains to give detail and provide conciseness in all of my words.");
                 put("most", "I wish to be able to escape the past. I want to run far away from the mistakes I have made. Alas I cannot, for my past chases after me, and the thing I created will not let me forget the the tortured miserable existance I have doomed us to.");
